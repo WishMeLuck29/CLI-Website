@@ -1,5 +1,2 @@
 this file belonge to L
-i will use this file to store my progress,
-either common python3 file, or py for website
-i will try to differ that to types with (cpy) for common python3 file
-and (wpy) for py for website
+i will use this file to store my progress on django
