@@ -1,0 +1,4 @@
+this file belonge to L
+i will use this file
+to store my py file
+but not for Django (website)
