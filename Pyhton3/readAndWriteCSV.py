@@ -27,7 +27,24 @@ def readCSV ():
 		else:
 			found = True
 			f.close()
-			
+
+def prSpecificRow ():
+
+
+	csv_name = input("Input your file name (with the extension) : ")
+	with open(csv_name, newline='') as f:
+		reader = csv.reader(f)
+		info = []
+		i = 0
+		for row in reader:
+			info.append(row)
+			i = i + 1
+	
+	i=0
+	for row in info:
+		if i == 2 :
+			print (row)
+		i = i + 1
 
 	
 
