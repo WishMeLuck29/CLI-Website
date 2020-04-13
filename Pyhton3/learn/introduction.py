@@ -19,3 +19,19 @@ Keunggulan Python:
 	kode dapat dieksekusi segera setelah ditulis, karena menggunakan sistem interpreter
 	bisa digunakan secara prosedural ataupun OOP
 """
+
+"""
+Python Variabel
+
+dalam bahasa pyhon, tidak perlu adanya deklarasi tipe data. contoh :
+	a = True
+	b = "Helllo World!"
+	c = "z"
+	d,e,f = 12, "Namaku", False
+
+dalam memberi nama variabel, terdapat beberapa aturan. Yaitu:
+	nama harus dimulai dengan huruf, atau underscore, tidak bisa dengan angka.
+	nama variablenya case sensitive.
+
+Pyhton juga mengenal variabel global
+"""
